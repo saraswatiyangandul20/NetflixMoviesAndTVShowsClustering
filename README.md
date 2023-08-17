@@ -1,4 +1,7 @@
 # NetflixMoviesAndTVShowsClustering
+![download](https://github.com/saraswatiyangandul20/NetflixMoviesAndTVShowsClustering/assets/126682023/6fa642d4-f21c-4eb9-8026-9276e30b0438)
+
+
 In order to maintain a top-notch user experience and mitigate subscriber attrition, it is imperative for Netflix, the global frontrunner in online streaming services boasting more than 220 million subscribers as of 2022, to proficiently categorize the content available on their platform into relevant clusters.
 # Table of Content
 ### Problem Statement
