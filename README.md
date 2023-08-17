@@ -1,6 +1,6 @@
 # NetflixMoviesAndTVShowsClustering
-![download](https://github.com/saraswatiyangandul20/NetflixMoviesAndTVShowsClustering/assets/126682023/6fa642d4-f21c-4eb9-8026-9276e30b0438)
 
+![netflix-intro-netflix](https://github.com/saraswatiyangandul20/NetflixMoviesAndTVShowsClustering/assets/126682023/b0cf8922-9629-45ee-a185-15bffdcb087d)
 
 In order to maintain a top-notch user experience and mitigate subscriber attrition, it is imperative for Netflix, the global frontrunner in online streaming services boasting more than 220 million subscribers as of 2022, to proficiently categorize the content available on their platform into relevant clusters.
 # Table of Content
@@ -23,10 +23,10 @@ The dataset employed in this project is obtained from Flixable, an independent s
 
 * Creation of Content-Based Recommendation System: A content-based recommendation system was meticulously crafted using a similarity matrix generated through cosine similarity calculations. This innovative approach empowers users with tailored recommendations, rendering ten suggestions rooted in the type of movie or show they've previously viewed.
 ### Project Structure
-
+```
 ├── README.md
 ├── Dataset 
-│   ├── [NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv]()
+│   
 ├── Problem Statement
 │
 ├── Understanding Data
@@ -67,9 +67,11 @@ The dataset employed in this project is obtained from Flixable, an independent s
 ├── Presentation
 ├── Result
 └── Reference
+```
+
 ### Conclusion
 Within this project, we confronted the challenge of text clustering, aiming to categorize and organize Netflix shows into distinct clusters. Our objective was to create clusters in a manner that fosters similarity among shows within the same cluster while ensuring clear differentiation between shows situated in separate clusters.
-- There were approximately 7787 records and 11 attributes in the dataset.
+   - There were approximately 7787 records and 11 attributes in the dataset.
 - We started by working on the missing values in the dataset and conducting exploratory data analysis (EDA).
 - It was discovered that Netflix hosts more movies than television shows on its platform, and the total number of shows added to Netflix is expanding at an 
 exponential rate. Additionally, most of the shows were made in the United States.
